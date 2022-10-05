@@ -1,5 +1,5 @@
 # cfprs_web
-
+Cost File Parsing and Retrieval System（造价文件解析及检索系统_前端）
 ## Project setup
 ```
 npm install
